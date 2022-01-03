@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "/usr/bin/python",
+  "python.analysis.extraPaths": [
+    "DoNotTouchThisFolder"
+  ],
+"python.jediEnabled": false,
+"python.languageServer": "None"
+}
